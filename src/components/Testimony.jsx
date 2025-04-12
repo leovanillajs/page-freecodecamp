@@ -1,11 +1,12 @@
 import React from 'react'
+import Foto from '../imagens/testimonio-emma.png'
 
 function Testimony() {
     return (
         <div className='caixa-testimony'>
             <img 
                 className='imagem-testimony'
-                src={('../imagens/testimonio-emma.png')}
+                src={Foto}
                 alt='Foto de Emma'
             />
             <div className="caixa-texto-testimony">
