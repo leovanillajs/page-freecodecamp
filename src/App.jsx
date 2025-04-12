@@ -1,11 +1,12 @@
 import './App.css'
+import Testimony from './components/Testimony'
 
 function App() {
   
   return (
     <>
-      <div>
-        <h1>HELLO WORLD</h1>
+      <div className='App'>
+        <Testimony />        
       </div>
     </>
   )
