@@ -1,5 +1,6 @@
 import React from 'react'
 import Foto from '../imagens/testimonio-emma.png'
+import '../stylesheets/Testimony.css'
 
 function Testimony() {
     return (

@@ -6,7 +6,10 @@ function App() {
   return (
     <>
       <div className='App'>
-        <Testimony />        
+        <div className="caixa-principal">
+          <h1>Here is what our alumni say about freeCodeCamp:</h1>
+          <Testimony />
+        </div>        
       </div>
     </>
   )
